@@ -37,4 +37,7 @@ const abhi = {
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Merge Sort in JavaScript](https://stackabuse.com/merge-sort-in-javascript/)
+- [Quicksort in JavaScript](https://stackabuse.com/quicksort-in-javascript/)
+- [Publishing a Node.js Module to NPM](https://stackabuse.com/publishing-a-nodejs-module-to-npm/)
 <!-- BLOG-POST-LIST:END --> 
