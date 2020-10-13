@@ -1,5 +1,7 @@
 ### Hi there, I'm [Abhilash!](https://abhilash-portfolio.netlify.app/) 👋
 
+<img align="right" alt="A guy coding" width="200px" src= "https://raw.githubusercontent.com/abhilashkakumanu1/abhilashkakumanu1/master/assets/freelancer.svg"/>
+
 <a href="https://abhilash-portfolio.netlify.app/">
   <img align="left" alt="Abhilash Kakumanu | Portfolio" width="21px" src= "https://raw.githubusercontent.com/abhilashkakumanu1/abhilashkakumanu1/master/assets/website.svg"/>
 </a>
