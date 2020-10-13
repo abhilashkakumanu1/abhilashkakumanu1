@@ -10,8 +10,8 @@
   <img align="left" alt="Abhilash Kakumanu | Discord" width="21px" src= "https://raw.githubusercontent.com/abhilashkakumanu1/abhilashkakumanu1/master/assets/discord.svg"/>
 </a>
 
-<br />
-
+<br>
+<br>
 Hi, I'm Abhilash Kakumanu, a passionate self-taught full stack web developer from India.
 
 ### A little bit about myself:
