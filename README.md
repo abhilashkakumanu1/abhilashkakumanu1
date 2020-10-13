@@ -1,7 +1,7 @@
 ### Hi there, I'm [Abhilash!](https://abhilash-portfolio.netlify.app/) 👋
 
 <a href="https://abhilash-portfolio.netlify.app/">
-  <img align="left" alt="Abhilash Kakumanu | Portfolio" width="21px" src="https://raw.githubusercontent.com/abhilashkakumanu1/abhilashkakumanu1/master/assets/website.svg"/>
+  <img align="left" alt="Abhilash Kakumanu | Portfolio" width="21px" src= "https://raw.githubusercontent.com/abhilashkakumanu1/abhilashkakumanu1/master/assets/website.svg"/>
 </a>
 <a href="https://www.linkedin.com/in/abhilash1998/">
   <img align="left" alt="Abhilash Kakumanu | LinkedIn" width="21px" src= "https://raw.githubusercontent.com/abhilashkakumanu1/abhilashkakumanu1/master/assets/linkedin.svg"/>
