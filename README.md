@@ -41,9 +41,9 @@ const abhi = {
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Form Data Validation in Node.js With Validator.js](https://stackabuse.com/data-validation-in-nodejs-with-validatorjs/)
 - [JavaScript: Generate Random Number in Range](https://stackabuse.com/javascript-generate-random-number-in-range/)
 - [Linear Search in JavaScript](https://stackabuse.com/linear-search-in-javascript/)
 - [Binary Search in JavaScript](https://stackabuse.com/binary-search-in-javascript/)
 - [Merge Sort in JavaScript](https://stackabuse.com/merge-sort-in-javascript/)
-- [Quicksort in JavaScript](https://stackabuse.com/quicksort-in-javascript/)
 <!-- BLOG-POST-LIST:END -->
