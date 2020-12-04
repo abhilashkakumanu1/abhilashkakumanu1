@@ -41,9 +41,9 @@ const abhi = {
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript: Check if Array Includes a Value/Element](https://stackabuse.com/javascript-check-if-array-contains-a-value-element/)
 - [Commenting Code in JavaScript - Types and Best Practices](https://stackabuse.com/commenting-code-in-javascript-types-and-best-practices/)
 - [Form Data Validation in Node.js With Validator.js](https://stackabuse.com/data-validation-in-nodejs-with-validatorjs/)
 - [JavaScript: Generate Random Number in Range](https://stackabuse.com/javascript-generate-random-number-in-range/)
 - [Linear Search in JavaScript](https://stackabuse.com/linear-search-in-javascript/)
-- [Binary Search in JavaScript](https://stackabuse.com/binary-search-in-javascript/)
 <!-- BLOG-POST-LIST:END -->
