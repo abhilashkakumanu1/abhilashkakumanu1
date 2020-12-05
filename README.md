@@ -24,7 +24,6 @@ const abhi = {
   code: [Javascript, HTML, CSS, Python, C, C++],
   tools: [React, Node, Jest, MongoDB, TailwindCSS],
   roles: {
-    cofounder: "taniumwealth",
     technical_writer: "stackabuse",
     freelance_developer: "upwork",
     teacher: "superprof",
