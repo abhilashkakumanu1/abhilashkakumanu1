@@ -40,9 +40,9 @@ const abhi = {
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript: Remove a Property From an Object](https://stackabuse.com/javascript-remove-a-property-from-an-object/)
 - [JavaScript: Check if First Letter of a String Is Upper Case](https://stackabuse.com/javascript-check-if-first-letter-of-a-string-is-upper-case/)
 - [Guide to JavaScript Closures](https://stackabuse.com/guide-to-javascript-closures/)
 - [JavaScript: Check if Array Includes a Value/Element](https://stackabuse.com/javascript-check-if-array-contains-a-value-element/)
 - [Commenting Code in JavaScript - Types and Best Practices](https://stackabuse.com/commenting-code-in-javascript-types-and-best-practices/)
-- [Form Data Validation in Node.js With Validator.js](https://stackabuse.com/data-validation-in-nodejs-with-validatorjs/)
 <!-- BLOG-POST-LIST:END -->
