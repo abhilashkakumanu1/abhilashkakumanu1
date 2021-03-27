@@ -40,9 +40,9 @@ const abhi = {
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Split an Array Into Even Chunks in JavaScript](https://stackabuse.com/how-to-split-an-array-into-even-chunks-in-javascript/)
 - [Merge Properties of Two Objects Dynamically in JavaScript](https://stackabuse.com/merge-properties-of-two-objects-dynamically-in-javascript/)
 - [Compare Two Dates in JavaScript](https://stackabuse.com/compare-two-dates-in-javascript/)
 - [JavaScript: Remove a Property From an Object](https://stackabuse.com/javascript-remove-a-property-from-an-object/)
 - [JavaScript: Check if First Letter of a String Is Upper Case](https://stackabuse.com/javascript-check-if-first-letter-of-a-string-is-upper-case/)
-- [Guide to JavaScript Closures](https://stackabuse.com/guide-to-javascript-closures/)
 <!-- BLOG-POST-LIST:END -->
