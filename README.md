@@ -43,6 +43,6 @@ const abhi = {
 - [How to Split a String in JavaScript](https://stackabuse.com/how-to-split-a-string-in-javascript/)
 - [JavaScript: Check if String Starts with Substring](https://stackabuse.com/javascript-check-if-string-starts-with-substring/)
 - [JavaScript: Get Number of Days Between Dates](https://stackabuse.com/javascript-get-number-of-days-between-dates/)
-- [How to Split an Array Into Even Chunks in JavaScript](https://stackabuse.com/how-to-split-an-array-into-even-chunks-in-javascript/)
+- [How to Split an Array into Even Chunks in JavaScript](https://stackabuse.com/how-to-split-an-array-into-even-chunks-in-javascript/)
 - [Merge Properties of Two Objects Dynamically in JavaScript](https://stackabuse.com/merge-properties-of-two-objects-dynamically-in-javascript/)
 <!-- BLOG-POST-LIST:END -->
