@@ -1,39 +1,41 @@
-### Hi there, I'm [Abhilash!](https://abhilash-portfolio.netlify.app/) 👋
+### Hi, I'm [Abhilash](https://abhilashkakumanu.com/) 👋
 
-<img align="right" alt="A guy coding" width="200px" src= "https://raw.githubusercontent.com/abhilashkakumanu1/abhilashkakumanu1/master/assets/freelancer.svg"/>
+<img align="right" alt="A guy coding" width="200px" src="https://raw.githubusercontent.com/abhilashkakumanu1/abhilashkakumanu1/master/assets/freelancer.svg"/>
 
-<a href="https://abhilash-portfolio.netlify.app/">
-  <img align="left" alt="Abhilash Kakumanu | Portfolio" width="21px" src= "https://raw.githubusercontent.com/abhilashkakumanu1/abhilashkakumanu1/master/assets/website.svg"/>
+<a href="https://abhilashkakumanu.com/">
+  <img align="left" alt="Abhilash Kakumanu | Portfolio" width="21px" src="https://raw.githubusercontent.com/abhilashkakumanu1/abhilashkakumanu1/master/assets/website.svg"/>
 </a>
 <a href="https://www.linkedin.com/in/abhilash1998/">
-  <img align="left" alt="Abhilash Kakumanu | LinkedIn" width="21px" src= "https://raw.githubusercontent.com/abhilashkakumanu1/abhilashkakumanu1/master/assets/linkedin.svg"/>
-</a>
-<a href="https://discordapp.com/users/758980069908676638">
-  <img align="left" alt="Abhilash Kakumanu | Discord" width="21px" src= "https://raw.githubusercontent.com/abhilashkakumanu1/abhilashkakumanu1/master/assets/discord.svg"/>
+  <img align="left" alt="Abhilash Kakumanu | LinkedIn" width="21px" src="https://raw.githubusercontent.com/abhilashkakumanu1/abhilashkakumanu1/master/assets/linkedin.svg"/>
 </a>
 
 <br>
 <br>
-Hi, I'm Abhilash Kakumanu, a passionate self-taught full stack web developer from India.
 
-### A little bit about myself:
+Senior Backend Engineer with DevOps expertise — 5+ years designing distributed systems, automating cloud infrastructure, and owning end-to-end delivery across product teams. First-principles thinker, cost-optimization nerd, and occasional teacher.
+
+### What I work with
 
 ```javascript
 const abhi = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, Python, C, C++],
-  tools: [React, Node, Jest, MongoDB, TailwindCSS],
-  roles: {
-    technical_writer: "stackabuse",
-    freelance_developer: "upwork",
-    teacher: "superprof",
-  },
-  goals: "Contribute more to Open Source without showing off",
-  interests: ["novels", "traveling", "dogs"],
+  languages: ["TypeScript", "JavaScript", "Python", "SQL"],
+  backend: ["Node.js", "NestJS", "Express.js", "Django", "FastAPI", "GraphQL"],
+  devops: ["Terraform", "AWS", "Docker", "Ansible", "GitLab CI/CD", "GitHub Actions"],
+  data: ["PostgreSQL", "MongoDB", "Kafka", "RabbitMQ", "Redis"],
+  currently: "Sole DevOps owner + team lead, running infra for a fashion-tech PLM platform",
+  interests: ["system design", "distributed systems internals", "novels", "traveling", "dogs"],
 };
 ```
 
-<b>I love connecting with different people</b>, so if you want to say hi, <b>I'll be happy to talk with you!</b> :)</em>
+### Recent work
+
+- Led infrastructure migrations to AWS (Terraform, EC2/ECS/RDS/S3), cutting infra costs ~50% via rightsizing and lifecycle policies
+- Owned CI/CD design (GitLab & GitHub Actions) with rollback safety and deploy notifications
+- Built internal tooling: dependency health dashboards, automated DB backup/migration, secure SSM tunnel CLI
+- Ran load testing (k6, JMeter) and production debugging across full AWS + application stack
+
+I love connecting with people — say hi if you want to talk shop.
 
 ---
 
