@@ -42,9 +42,9 @@ I love connecting with people — say hi if you want to talk shop.
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Learning to Grow &lpar;and Other Tangents&rpar;](https://medium.com/@AbhilashKakumanu/learning-to-grow-and-other-tangents-14d98c00ae9b?source=rss-9dde87575b4c------2)
 - [You Are Who You Hang Out With](https://medium.com/@AbhilashKakumanu/you-are-who-you-hang-out-with-55b4eddac80a?source=rss-9dde87575b4c------2)
 - [One Battle After Another](https://medium.com/@AbhilashKakumanu/one-battle-after-another-2b21922c8ccb?source=rss-9dde87575b4c------2)
 - [Bible-Level Financial Wisdom: Notes and Quotes from “A Dog Called Money” by Bodo Schäfer](https://medium.com/@AbhilashKakumanu/bible-level-financial-wisdom-notes-and-quotes-from-a-dog-called-money-by-bodo-sch%C3%A4fer-932db84a2b34?source=rss-9dde87575b4c------2)
 - [How Email Actually Works &lpar;and Why SPF, DKIM &amp; DMARC Matter&rpar;](https://medium.com/@AbhilashKakumanu/how-email-actually-works-and-why-spf-dkim-dmarc-matter-2b0e4d94dcff?source=rss-9dde87575b4c------2)
-- [The Cell, a Virus, and a Girl Named Emily](https://medium.com/@AbhilashKakumanu/the-cell-a-virus-and-a-girl-named-emily-154c7dedbf83?source=rss-9dde87575b4c------2)
 <!-- BLOG-POST-LIST:END -->
